@@ -1,0 +1,1 @@
+<?phpclass Home extends Controller {		function index()	{		redirect('forum/forum/forums');	}}
