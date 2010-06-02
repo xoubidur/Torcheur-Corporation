@@ -1,1 +1,0 @@
-<h1>Congrats !</h1><p>Compte créée.</p><?php echo anchor('login', 'Login now') ; ?>
